@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>ssm</name>
     <description>
-        为了方便以后的一些问题的讲解特地准备一个最精简的 SpringMVC+Spring+Mybatis 框架整合，方便以后的一些问题的演示
+        jpf为了方便以后的一些问题的讲解特地准备一个最精简的 SpringMVC+Spring+Mybatis 框架整合，方便以后的一些问题的演示
     </description>
     <url>http://code.YouMeek.com</url>
 
